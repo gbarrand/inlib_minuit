@@ -1,0 +1,14 @@
+
+ To build :
+   UNIX> cd ./inlib/examples/cpp
+   UNIX> c++ -I../.. f2cmn.cpp
+   UNIX> ./a.out [options]
+
+   UNIX> c++ -I../.. fit.cpp
+   UNIX> ./a.out [options]
+
+   UNIX> c++ -I../.. fit_poly.cpp
+   UNIX> ./a.out [options]
+
+   UNIX> c++ -I../.. fit_multi.cpp
+   UNIX> ./a.out [options]
