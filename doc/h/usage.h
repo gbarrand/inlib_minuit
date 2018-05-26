@@ -1,6 +1,6 @@
 /**
 
-@page inexlib_py_usage Usage
+@page inlib_minuit_usage Usage
 
 <p>
 
