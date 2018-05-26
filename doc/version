@@ -1,0 +1,13 @@
+// Copyright (C) 2010, Guy Barrand. All rights reserved.
+// See the file inexlib_py.license for terms.
+
+#ifndef inexlib_py_inexlib_py_version
+#define inexlib_py_inexlib_py_version
+
+#define INEXLIB_PY_MAJOR_VERSION 1
+#define INEXLIB_PY_MINOR_VERSION 0
+#define INEXLIB_PY_PATCH_VERSION 0
+#define INEXLIB_PY_VERSION "1.0.0"
+#define INEXLIB_PY_VERSION_VRP "v1r0p0"
+
+#endif
