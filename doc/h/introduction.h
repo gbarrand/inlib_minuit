@@ -9,11 +9,12 @@
 
   In inlib/examples/cpp, there are:
 @verbatim
-   f2cmn.cpp      # example by using the "raw" minuit like interface.
+   f2cmn.cpp      # histogram fit example by using the FORTRAN like MINUIT API.
    fit.cpp        # a "gaussian+breit_wigner" fit by using a inlib::fit_func and
                   # the inlib::f2cmn::fit_1D<> template function.
    fit_poly.cpp   # a polynomial fit by using inlib::f2cmn::fit_1D().
-   fit_multi.cpp  # a multiple functions fit, by using the inlib::f2cmn::func_fitter::fit() API.
+   fit_multi.cpp  # a multiple (function/histo) fit with one chi2, by using
+                  # the inlib::f2cmn::func_fitter::fit() API.
 @endverbatim
 
   Someone sensitive to software engineering may appreciate the difference in number of lines of
